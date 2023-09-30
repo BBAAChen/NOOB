@@ -1,2 +1,0 @@
-# NOOB
-NEW TO GIT
